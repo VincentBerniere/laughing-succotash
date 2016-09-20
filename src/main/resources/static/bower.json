@@ -1,0 +1,29 @@
+{
+  "name": "project-list",
+  "description": "Demo of ReactJS + Spring Data REST",
+  "main": "",
+  "authors": [
+    "Vincent Bernière"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "rest",
+    "hateoas",
+    "spring",
+    "data",
+    "react"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "^4.17.42",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
